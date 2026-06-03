@@ -6,3 +6,4 @@
 | What is Networking? | ✅ Done | — |
 | SOC Fundamentals | ✅ Done | soc-fundamentals.md |
 | Jr. Security Analyst Intro | ✅ Done | jr-security-analyst-intro.md |
+| SOC Role in Blue Team | ✅ Done | soc-role-blue-team.md |
