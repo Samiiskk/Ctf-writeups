@@ -7,4 +7,5 @@
 | SOC Fundamentals | ✅ Done | soc-fundamentals.md |
 | Jr. Security Analyst Intro | ✅ Done | jr-security-analyst-intro.md |
 | SOC Role in Blue Team | ✅ Done | soc-role-blue-team.md |
+| TryHackMe Pre-Security | 🔄 In progress | presecurity-networking-fundamentals.md |
 | Let's Defend — SOC Fundamentals | 🔄 In progress | letsdefend-soc-fundamentals.md |
