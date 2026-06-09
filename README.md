@@ -7,3 +7,4 @@
 | SOC Role in Blue Team | ✅ Done | soc-role-blue-team.md |
 | TryHackMe Pre-Security | 🔄 In progress | presecurity-networking-fundamentals.md |
 | Let's Defend — SOC Fundamentals | 🔄 In progress | letsdefend-soc-fundamentals.md |
+| Pre-Security — How The Web Works | ✅ Done | presecurity-how-web-works.md |
