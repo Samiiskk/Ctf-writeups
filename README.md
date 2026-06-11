@@ -8,3 +8,4 @@
 | TryHackMe Pre-Security | 🔄 In progress | presecurity-networking-fundamentals.md |
 | Let's Defend — SOC Fundamentals | 🔄 In progress | letsdefend-soc-fundamentals.md |
 | Pre-Security — How The Web Works | ✅ Done | presecurity-how-web-works.md |
+| Pre-Security — OS, Windows & Linux Basics | ✅ Done | presecurity-os-windows-linux-basics.md |
