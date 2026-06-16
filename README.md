@@ -10,3 +10,4 @@
 | Pre-Security — How The Web Works | ✅ Done | presecurity-how-web-works.md |
 | Pre-Security — OS, Windows & Linux Basics | ✅ Done | presecurity-os-windows-linux-basics.md |
 | Pre-Security Path | ✅ Complete | presecurity-completion.md |
+| SOC Level 1 — Human & System Attack Vectors | ✅ Done | soc1-human-system-attack-vectors.md |
