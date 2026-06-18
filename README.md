@@ -12,3 +12,4 @@
 | Pre-Security Path | ✅ Complete | presecurity-completion.md |
 | SOC Level 1 — Human & System Attack Vectors | ✅ Done | soc1-human-system-attack-vectors.md |
 | SOC Level 1 — Alert Triage | ✅ Done | soc1-alert-triage.md |
+| SOC Level 1 — Alert Reporting & Escalation | ✅ Done | soc1-alert-reporting.md |
