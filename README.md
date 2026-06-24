@@ -15,3 +15,4 @@
 | SOC Level 1 — Alert Reporting & Escalation | ✅ Done | soc1-alert-reporting.md |
 | AI/ML Security Threats Pathway | ✅ 2 rooms done | ai-ml-security-threats.md |
 | SOC Level 1 — Metrics & EDR/SIEM | ✅ Done | soc1-metrics.md, edr-siem-fundamentals.md |
+| DFIR & AI/ML Security | ✅ Done | dfir-fundamentals.md, ai-llm-security-prompt-engineering.md, ai-dfir-applications-ethics.md |
