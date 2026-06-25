@@ -16,3 +16,7 @@
 | AI/ML Security Threats Pathway | ✅ 2 rooms done | ai-ml-security-threats.md |
 | SOC Level 1 — Metrics & EDR/SIEM | ✅ Done | soc1-metrics.md, edr-siem-fundamentals.md |
 | DFIR & AI/ML Security | ✅ Done | dfir-fundamentals.md, ai-llm-security-prompt-engineering.md, ai-dfir-applications-ethics.md |
+| ELK Stack Basics | ✅ Done | elastic-stack-elk-basics.md |
+| Detection Engineering | ✅ Done | detection-engineering-fundamentals.md |
+| SOAR Fundamentals | ✅ Done | soar-fundamentals.md |
+| Pyramid of Pain | ✅ Done | pyramid-of-pain-threat-intel.md |
