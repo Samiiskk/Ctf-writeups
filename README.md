@@ -20,3 +20,5 @@
 | Detection Engineering | ✅ Done | detection-engineering-fundamentals.md |
 | SOAR Fundamentals | ✅ Done | soar-fundamentals.md |
 | Pyramid of Pain | ✅ Done | pyramid-of-pain-threat-intel.md |
+| Cyber Kill Chain | ✅ Done | cyber-kill-chain.md |
+| Dark Web / Deep Web / Surface Web | ✅ Done | dark-web-surface-deep-web.md |
